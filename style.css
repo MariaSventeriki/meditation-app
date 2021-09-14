@@ -44,11 +44,17 @@
 }
 
 .sound-picker button:nth-child(1) {
-    background: #4972a1;
+    background: #70888b;
 }
 
 .sound-picker button:nth-child(2) {
+    background: #d0d340;
+}
+.sound-picker button:nth-child(3) {
     background: #a14f49;
+}
+.sound-picker button:nth-child(4) {
+    background: #328db8;
 }
 
 .sound-picker button img {
